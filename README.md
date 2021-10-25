@@ -1,2 +1,3 @@
-# BemilyThemeSystem
-Bemily Theme System for Apple 
+# BemilyThemeSystem for Apple
+
+A description of this package.
